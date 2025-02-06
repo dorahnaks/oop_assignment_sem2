@@ -11,8 +11,7 @@ print(dorah_foods.name)
 print(f'You can contact {dorah_foods.name} via email: {dorah_foods.email} or call: {dorah_foods.contact}')
 
 # To do : 
-# Complete the Author class
-# Book(maximum of 5 properties for each class)
+# Complete the Author and Book class (maximum of 5 properties for each class)
 # Add 2 functions and 2 classes each.
 
 class Author:
